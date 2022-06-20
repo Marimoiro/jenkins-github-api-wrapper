@@ -55,6 +55,14 @@ Almost all classes have getRaw member that can be used in the backend [GitHub AP
 
 Alternatively, this library is so simple to code that you can implement it and send out a PullRequest.
 
+## What this library has access to.
+Please note that this library can do everything you can do on GitHub if you have legitimate access rights to github.
+Basically, you should not check Load implicitly, but only load it in the jobs that need it.
+
+## License
+
+[LICENSE](LICENSE)
+
 ## Star is required.
 
 The license is MIT, but please press Star if you want to use this library.
