@@ -30,7 +30,7 @@ For more information, see [GitHub Plugin](https://plugins.jenkins.io/github/)
 
 2. Global Pipeline Libraries
 
-Set the URL of this repository or the repository you forked. 3.
+Set the URL of this repository or the repository you forked.
 
 3. write a Jenkinsfile
 4. add a Star to https://github.com/Marimoiro/jenkins-github-api-wrapper
@@ -70,6 +70,6 @@ I will be happy.
 
 ## This document has been translated
 This document is a translation of the Japanese original.
-The exact document is [README-en.md]
+The exact document is [README-en.md](README-en.md)
 
 Translated with www.DeepL.com/Translator (free version)
